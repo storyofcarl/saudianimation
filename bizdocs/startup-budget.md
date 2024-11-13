@@ -1,7 +1,7 @@
 # Composition Middle East
 ## First Year Startup Budget (USD)
 
-### Q1 2024 - Initial Setup
+### Q1 2025 - Initial Setup
 ```
 Category                          Amount      Notes
 Facility & Infrastructure
@@ -30,7 +30,7 @@ Other Costs
 Q1 Total                         4,250,000
 ```
 
-### Q2 2024 - Team Expansion
+### Q2 2025 - Team Expansion
 ```
 Category                          Amount      Notes
 Facility & Infrastructure
@@ -57,7 +57,7 @@ Other Costs
 Q2 Total                         2,383,750
 ```
 
-### Q3 2024 - Production Ramp-Up
+### Q3 2025 - Production Ramp-Up
 ```
 Category                          Amount      Notes
 Facility & Infrastructure
@@ -82,7 +82,7 @@ Other Costs
 Q3 Total                         1,190,000
 ```
 
-### Q4 2024 - Education Launch
+### Q4 2025 - Education Launch
 ```
 Category                          Amount      Notes
 Facility & Infrastructure
